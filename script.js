@@ -479,7 +479,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // If the main secret has already been unlocked once this
       // session, reveal a small closing message instead of the gate.
       footerFinal.hidden = !footerFinal.hidden;
-      footerFinal.textContent = "One more secret: this website was built with a genuinely embarrassing amount of care.";
+      footerFinal.textContent = "One more secret: every little detail was made with love, from your cousin Edu. 🤍";
     });
   }
 
